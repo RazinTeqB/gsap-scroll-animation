@@ -1,3 +1,3 @@
 # GSAP (GreenSock Animation Platform) scroll animation demo
 
-![demo video](FingerLightAnimationDemo.webm)
+<video controls src="FingerLightAnimationDemo.mp4" title="Demo Video"></video>
